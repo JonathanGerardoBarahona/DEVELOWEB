@@ -1,2 +1,2 @@
 # DEVELOWEB
-Un proyecto para ayudar a las personas a que incursione en este bello mundo de la informática.
+Un proyecto para ayudar a las personas a que incursionen en este bello mundo de la informática.
